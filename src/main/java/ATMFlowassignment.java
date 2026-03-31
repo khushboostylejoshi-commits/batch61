@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ATMFlowassignment {
     public static void main(String[] args) {
+        AmstrongNumberAssignment obj = new AmstrongNumberAssignment();
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please Enter your Debit card");
         //Your name
